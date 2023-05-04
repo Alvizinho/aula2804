@@ -37,7 +37,6 @@ public class CalculadoraSimples{
                 //Saída
                 System.out.printf("%d + %d = %d" , n1, n2, total);
 
-
             } else if(op == 2){
                 System.out.println("\n\t\t\t -- Subtração -- \n");
                 //credendio
