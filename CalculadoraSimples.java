@@ -52,7 +52,7 @@ public class CalculadoraSimples{
 
             }else if(op == 3){
                 System.out.println("\n\t\t\tMultiplicação\n");
-                //Pedro Araujo
+                //Gabriel Credendio
 
                 //Entradas
                 System.out.println("Informe N1:");
@@ -68,7 +68,7 @@ public class CalculadoraSimples{
 
             }else if(op == 4){
                 System.out.println("\n\t\t\tDivisão\n");
-                //Gabriel Credendio
+                //Pedro Araujo
 
                 //Entradas
                 System.out.println("informe N1:");
